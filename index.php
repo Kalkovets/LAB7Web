@@ -12,10 +12,10 @@ $e = [
 ];
 
 $f = [
-    'name' => 'Aleksandr',
-    'surname' => 'Burgela',
-    'age' => 21,
-    'byear' => 1999,
+    'name' => 'Vitaliy',
+    'surname' => 'Kalkovets',
+    'age' => 22,
+    'byear' => 1998,
     'education' => [
         'school in 2004; collage in 2014'
     ],
